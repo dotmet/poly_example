@@ -14,7 +14,7 @@ PYBIND11_MODULE(python_example, m) {
         Pybind11 example plugin
         -----------------------
 
-        .. currentmodule:: python_example
+        .. currentmodule:: polypy
 
         .. autosummary::
            :toctree: _generate
