@@ -34,7 +34,7 @@ Installation
 ------------
 
  - clone this repository
- - `pip install ./poly_example`
+ - `pip install ./polypy`
 
 CI Examples
 -----------
@@ -54,7 +54,7 @@ the extension module to generate beautiful documentation in a variety formats.
 The following command generates HTML-based reference documentation; for other
 formats please refer to the Sphinx manual:
 
- - `cd python_example/docs`
+ - `cd polypy/docs`
  - `make html`
 
 License
@@ -68,8 +68,7 @@ Test call
 ---------
 
 ```python
-import python_example
-python_example.add(1, 2)
+import polypy
 ```
 
 [`cibuildwheel`]:          https://cibuildwheel.readthedocs.io
