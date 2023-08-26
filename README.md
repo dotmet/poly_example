@@ -34,7 +34,7 @@ Installation
 ------------
 
  - clone this repository
- - `pip install ./python_example`
+ - `pip install ./poly_example`
 
 CI Examples
 -----------
